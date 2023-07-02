@@ -188,10 +188,11 @@ body{
 .donhang{
     display: flex;
     justify-content: space-evenly;
+    width: 1140px
+    height: 218px;
     margin-top: 45px;
-    margin-left: 70px;
-    margin-right: 70px;
-    
+    margin-left: 85px;
+    margin-right: 85px;
 }
 
 .all{
@@ -204,17 +205,464 @@ body{
 }
 
 .all-chu{
-    
     display: flex;
     justify-content: center;
     text-decoration: none;
     color: #fff;
     font-size: 16px;
-    padding: 12px 0px;
+    padding: 12px 0px;   
+}
+
+.group{
+    display: flex;
+    flex-direction: column;
+}
+
+.group-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 45px    ;
+}
+
+.group-2-one{
+    width: 570px;
+    height: 550px;
+    position: relative;
     
+}
+
+.group-2-two{
+    background-color: rgba(205, 135, 159, 0.6);
+    width: 570px;
+    height: 550px;
+    position: relative;
+}
+
+.group-3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.group-3-one{
+    background-color:rgba(205, 135, 159, 0.6);
+    width: 570px;
+    height: 550px;
+}
+
+.group-3-two{
+    width: 570px;
+    height: 550px;
+    position: relative;
+}
+
+.lorem1-icon{
+    background-color: rgba(195, 34, 112, 1);
+    height: 191px;
+    width: 5px;
+    border-radius: 10px;
+    position: absolute;
+    left: 65px;
+    top: 100px;
+}
+
+.lorem1-content{
+    position: absolute;
+    left: 95px;
+    top: 100px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+
+.lorem-content-1{
+    width: 200px;
+    height: 38px;
+}
+
+.lorem-content-1 h1{
+    font-size: 30px;
+    color: #fff;
+}
+
+.lorem-content-2{
+    width: 400px;
+    height: 57px;
+    margin-top: 20px;
+}
+
+.lorem-content-2 p{
+    font-size: 15px;
+    color: #fff;
+}
+
+.xemthem{
+    width: 165px;
+    height: 45px;
+    background-color: #C32270;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 2px solid #fff;
+}
+
+.all-xemthem{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 12px 0px;   
+}
+
+.picture11-2{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 550px;
+    width: 570px;
+    position: absolute;
+    top: 0px;     
+}
+
+.lorem2-icon{
+    background-color: rgba(195, 34, 112, 1);
+    height: 191px;
+    width: 5px;
+    border-radius: 10px;
+    position: absolute;
+    left: 65px;
+    top: 100px;
+}
+
+.lorem2-content{
+    position: absolute;
+    left: 95px;
+    top: 100px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.lorem-content-22{
+    width: 200px;
+    height: 38px;
+}
+
+.lorem-content-22 h1{
+    color: #C32270;
+    font-size: 30px;
+}
+
+.lorem-content-3{
+    width: 400px;
+    height: 57px;
+    margin-top: 20px;
+}
+
+.lorem-content-3 p{
+    font-size: 15px;
+}
+
+.logo1{
+    position: absolute;
+    top: 310px;
+    right: 10px;
+}
+
+.lorem-content-3 h1{
+    color: #C32270;
+    font-size: 30px;
+}
+
+.lorem-content-4 p{
+    font-size: 15px;
 }
 
 
 
 
+.lorem3-icon{
+    background-color: rgba(195, 34, 112, 1);
+    height: 191px;
+    width: 5px;
+    border-radius: 10px;
+    position: absolute;
+    left: 215px;
+    top: 100px;
+}
 
+.lorem3-content{
+    position: absolute;
+    left: 245px;
+    top: 100px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.lorem-content-33{
+    width: 200px;
+    height: 38px;
+}
+
+.lorem-content-33 h1{
+    color: #C32270;
+    font-size: 30px;
+}
+
+.lorem-content-4{
+    width: 400px;
+    height: 57px;
+    margin-top: 20px;
+}
+
+.lorem-content-4 p{
+    font-size: 15px;
+}
+
+.logo2{
+    position: absolute;
+    top: 290px;
+    right: 720px;
+}
+
+.lorem-content-4 p{
+    font-size: 15px;
+}
+
+.group-2-one{
+    width: 570px;
+    height: 550px;
+    position: relative;
+    
+}
+
+.group-2-two{
+    background-color: rgba(205, 135, 159, 0.6);
+    width: 570px;
+    height: 550px;
+    position: relative;
+}
+
+.group-3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.group-3-one{
+    background-color:rgba(205, 135, 159, 0.6);
+    width: 570px;
+    height: 550px;
+}
+
+.group-3-two{
+    width: 570px;
+    height: 550px;
+}
+
+.picture111-2{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 550px;
+    width: 570px;
+    position: absolute;
+    top: 0px;     
+}
+
+.lorem4-icon{
+    background-color: rgba(195, 34, 112, 1);
+    height: 191px;
+    width: 5px;
+    border-radius: 10px;
+    position: absolute;
+    left: 65px;
+    top: 100px;
+}
+
+.xemthem{
+    width: 165px;
+    height: 45px;
+    background-color: #C32270;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 2px solid #fff;
+}
+
+.all-xemthem{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 12px 0px;   
+}
+
+.lorem4-content{
+    position: absolute;
+    left: 95px;
+    top: 100px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.lorem-content-111{
+    height: 38px;
+    width: 200px;
+}
+
+.lorem-content-111 h1{
+    color: #fff;
+    font-size: 30px;
+}
+
+.lorem-content-222{
+    width: 400px;
+    height: 57px;
+    margin-top: 20px;
+}
+
+.lorem-content-222 p{
+    color: #fff;    
+    font-size: 15px;
+}
+
+.footer{
+    width: 1440px;
+    height: 288px;
+    background-color: rgba(195, 34, 112, 1);
+    margin-bottom: 180px;
+    position: relative;
+}
+
+.info{
+    display: flex;
+    margin-top: 60px;
+}
+
+
+.fanpage{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.location{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.logo11{
+    position: absolute;
+    top: 30px;
+    left: 150px;
+}
+
+.info{
+    position: absolute;
+    left: 150px;
+    top: 60px;
+}
+
+.info1{
+    display: flex;
+    width: 416px;
+    height: 137px;
+    justify-content: space-between;
+}
+
+.info1-map{
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+}
+
+.info1-address{
+    font-size: 12px;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.one{
+    margin-top: 7px;
+    width: 370px;
+}
+
+.two{
+    margin-top: 10px;
+    height: 19px;
+}
+
+.info2{
+    margin-left: 70px;
+}
+
+.info2-1{
+    display: flex;
+}
+
+.info2-1-icon{
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.info2-1-contact{
+    color: #fff;
+    font-size: 12px;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+.email-email{
+    margin-top: 10px;
+}
+
+.info2-2{
+    display: flex;
+    margin-top: 38px;
+}
+
+.info2-2-icon{
+    width: 30px;
+    height: 30px;
+}
+
+.info2-2-phone{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.sdt{
+    margin-top: 10px;
+}
+
+.info3{
+    margin-left: 80px;
+}
+
+.info3-1{
+    display: flex;
+}
+
+.info3-2-picture{
+    margin-top: 10px;
+    height: 97px;
+}
+
+.info4{
+    margin-left: 80px;
+}
+
+.info4-1-one{
+    display: flex;
+}
+
+.info4-2-picture{
+    margin-top: 10px;
+}

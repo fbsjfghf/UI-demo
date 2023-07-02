@@ -54,7 +54,7 @@ body{
 }
 
 .group1{
-    background-color: rgb(205, 135, 159, 100%);
+    background-color: rgba(205, 135, 159, 0.6);
     width: 228px;
 }
 
@@ -69,11 +69,12 @@ body{
     justify-content: center;
     margin-top: 20px;
     color: rgb(195, 34, 112);
+    font-weight: bold;
 }
 
 .group3{
     width: 228px;
-    background-color: rgb(205, 135, 159, 100%);
+    background-color: rgba(205, 135, 159, 0.6);
 }
 
 .picture2{
@@ -91,7 +92,7 @@ body{
 
 .group5{
     width: 228px;
-    background-color: #CD879F;
+    background-color: rgba(205, 135, 159, 0.6);
 }
 
 .picture3{
